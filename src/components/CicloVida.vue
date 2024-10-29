@@ -18,7 +18,7 @@
             }
         },
         methods:{
-            //  EN ESTA ZONA INLUITEMOS NUESTRO METODOS PERSONALIZADOS
+            //  EN ESTA ZONA INLUITEMOS NUESTRO METODOS PERSONALIZADOS //
             cambiarSaludo(){
                 //  SE UTILIZAR LA PALABRA CLAVE this PARA LLAMAR A LAS
                 //  VARIABLES DE data()
